@@ -1,0 +1,5 @@
+D:\VideBit\.NET\Tutorial #1 Hello World Program\HelloWorld_Program\HelloWorld_Program\bin\Debug\HelloWorld_Program.exe
+D:\VideBit\.NET\Tutorial #1 Hello World Program\HelloWorld_Program\HelloWorld_Program\bin\Debug\HelloWorld_Program.pdb
+D:\VideBit\.NET\Tutorial #1 Hello World Program\HelloWorld_Program\HelloWorld_Program\obj\Debug\HelloWorld_Program.csprojResolveAssemblyReference.cache
+D:\VideBit\.NET\Tutorial #1 Hello World Program\HelloWorld_Program\HelloWorld_Program\obj\Debug\HelloWorld_Program.exe
+D:\VideBit\.NET\Tutorial #1 Hello World Program\HelloWorld_Program\HelloWorld_Program\obj\Debug\HelloWorld_Program.pdb
